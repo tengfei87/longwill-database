@@ -21,6 +21,7 @@
 -- and yk_rk01.rkbz like '%天狐%'
 -- and yk_rk01.rkpb > 0
 
+
 --2.2
 -- select
 -- (select ypmc from yk_typk where ypxh = a.ypxh) '名称',
